@@ -28,7 +28,7 @@ Building systems like this—connecting AI to your personal knowledge infrastruc
 
 ## Related
 
-Featured in [this LinkedIn post](#) about building personal AI tools as a skill for the future.
+Featured in [this LinkedIn post]([#](https://www.linkedin.com/posts/ucc_ki-und-wissensmanagement-activity-7388131685512671232-bDzu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB51UYoBIc6uwVJC5apM0skjLUTeuVvl9nQ)) about building personal AI tools as a skill for the future.
 
 ---
 
